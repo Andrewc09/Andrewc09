@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andrewc09
 - 👀 I’m interested in Blockchain and Web Development.
 - 🌱 I’m currently learning Frontend technologies
-- 💞️ I’m looking to collaborate on web dev related projects
+- 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me ...
 
 <!---
