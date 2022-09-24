@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain and Web Development.
 - 🌱 I’m currently learning Frontend technologies
 - 💞️ I’m looking to collaborate on web dev projects
-- 📫 How to reach me ...
+- 📫 How to reach me andrewchristensen09@gmail.com
 
 <!---
 Andrewc09/Andrewc09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
